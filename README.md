@@ -36,7 +36,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aakash1122)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aakash1122)  
 
 
 
