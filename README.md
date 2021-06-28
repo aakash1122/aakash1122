@@ -21,7 +21,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="50" src="https://www.flaticon.com/svg/vstatic/svg/541/541509.svg?token=exp=1612452907~hmac=d4cb9a1f68c70a836b93d2c1c1090c84"></code>
+
 <code><img height="50" src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183672.svg"></code>
 <code><img height="50" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"></code>
 <code><img height="50" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png"></code>
